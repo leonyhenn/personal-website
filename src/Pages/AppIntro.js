@@ -122,6 +122,8 @@ class AppIntro extends React.Component {
     }
     this.changeFocus=this.changeFocus.bind(this)
     this.changeClick=this.changeClick.bind(this)
+    alert('If the video player says "video is unavailable", please refresh the page! ');
+
   }
   changeFocus(obj){
     this.setState({focus:obj})

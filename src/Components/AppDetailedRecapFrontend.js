@@ -81,7 +81,7 @@ function AppDetailedRecapFrontend(){
       <IntroNormal>I implemented something quite similar with t function on my own.</IntroNormal>
       <ScreenShot src={require("../assets/images/"+"lans-2.png")}/>
       <ScreenShot src={require("../assets/images/"+"lans-1.png")}/>
-      <YoutubePlayerContainer><YoutubePlayer videoId="qbJzQOJWToA" unmute/></YoutubePlayerContainer>
+      <YoutubePlayerContainer><YoutubePlayer videoId="qbJzQOJWToA"/></YoutubePlayerContainer>
 
 
       <IntroTitle2>Recap 4: Chat functionality</IntroTitle2>
